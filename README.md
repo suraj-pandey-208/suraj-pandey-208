@@ -26,7 +26,7 @@
    CGPA: 8.23/10 ⭐
 
 💡 Aspiring software developer with a strong foundation in MERN Stack
-   and data structures, aiming to enhance practical skills through
+ aiming to enhance practical skills through
    internships and projects while contributing to innovative solutions.
 ```
 
@@ -86,7 +86,6 @@
 
 - 🔐 Built a full-stack application with robust user authentication
 - 🏘️ Implemented property listings with detailed information and images
-- 📅 Created booking functionality with calendar integration
 - 🔌 Developed RESTful APIs for seamless frontend-backend communication
 - 💾 Managed complex data structures using MongoDB with full CRUD operations
 - 🎨 Responsive and intuitive user interface design
@@ -135,7 +134,7 @@
 - 📚 Deepening knowledge in **Advanced React Patterns**
 - 🔧 Exploring **Backend Optimization** techniques
 - 🌐 Building more **Full-Stack Projects**
-- 🧠 Solving **Complex Data Structure Problems**
+- 🧠 Solving **Data Structure Problems**
 
 ---
 
