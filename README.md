@@ -100,9 +100,7 @@
 | ------------------------------------ | ------------------------------------------------ |
 | **CodeChef Competitive Programming** | 250+ Problems Solved 🚀                          |
 | **Campus Ambassador**                | Entrepreneurship Development Cell (IIT Delhi) 👨‍🎓 |
-| **Class X (CBSE)**                   | 93.4% 🌟                                         |
-| **Class XII (CBSE)**                 | 81.4% ✨                                         |
-| **Engineering CGPA**                 | 8.23/10 (Up to 2nd Semester) 📈                  |
+
 
 </div>
 
