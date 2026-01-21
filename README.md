@@ -90,18 +90,7 @@
 - 💾 Managed complex data structures using MongoDB with full CRUD operations
 - 🎨 Responsive and intuitive user interface design
 
-### 🌤️ Weather Report Web Application
 
-<img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-
-- 🔍 Integrated third-party weather API for real-time data
-- 🌍 Implemented city-based search functionality
-- 📱 Designed responsive UI for all devices
-- ⚡ Optimized performance for quick data loading
-
----
 
 ## 🏆 Achievements & Milestones
 
@@ -131,10 +120,9 @@
 
 ## 🎯 What I'm Working On
 
-- 📚 Deepening knowledge in **Advanced React Patterns**
+- 📚 Deepening knowledge in **Advanced Data Structure **
 - 🔧 Exploring **Backend Optimization** techniques
 - 🌐 Building more **Full-Stack Projects**
-- 🧠 Solving **Data Structure Problems**
 
 ---
 
