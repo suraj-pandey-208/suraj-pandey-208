@@ -23,7 +23,6 @@
 ```
 🎓 B.Tech in Computer Science and Engineering
    ABES Engineering College Ghaziabad (2024–2028)
-   CGPA: 8.23/10 ⭐
 
 💡 Aspiring software developer with a strong foundation in MERN Stack
  aiming to enhance practical skills through
@@ -78,7 +77,7 @@
 
 ## 🎨 Featured Projects
 
-### 🏠 Full-Stack Airbnb Website
+### 🏠 Full-Stack Hotel listing and Booking Website
 
 <img src="https://img.shields.io/badge/MERN%20Stack-61DAFB?style=flat-square&logo=react&logoColor=black" alt="MERN"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
